@@ -34,6 +34,6 @@ The following dependencies are **intentionally pinned** to outdated versions for
 | `numpy`        | 1.26.4        | Old numpy (1.x) version  |
 | `pandas`       | 2.1.4         | Old pandas version       |
 | `sqlalchemy`   | 1.4.54        | Old SQLAlchemy (1.x) version |
-| `Pillow`       | 10.3.0        | Old Pillow version       |
+| `Pillow`       | 12.1.1        | Old Pillow version       |
 | `PyYAML`       | 6.0.1         | Old PyYAML version       |
 | `cryptography` | 46.0.5        | Old cryptography version |

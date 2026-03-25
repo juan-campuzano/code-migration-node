@@ -40,7 +40,7 @@ The Python app (`python-app/`) is a Flask application that includes several **in
 | `numpy`        | 1.26.4        | Latest          |
 | `pandas`       | 2.1.4         | Latest          |
 | `sqlalchemy`   | 1.4.54        | Latest          |
-| `Pillow`       | 10.3.0        | Latest          |
+| `Pillow`       | 12.1.1        | Latest          |
 | `PyYAML`       | 6.0.1         | Latest          |
 | `cryptography` | 46.0.5        | Latest          |
 
